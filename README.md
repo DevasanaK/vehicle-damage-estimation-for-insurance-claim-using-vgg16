@@ -1,6 +1,6 @@
 # vehicle-damage-estimation-for-insurance-claim-using-vgg16
-###Tools and Frameworks Used
-##Data Set Collection:
+### Tools and Frameworks Used
+## Data Set Collection:
 
 1.Google Images – data source
 
@@ -8,7 +8,7 @@
 
 3.Import.io – online web data scraper
 
-##Model Development:
+## Model Development:
 
 1.TensorFlow – Deep Learning Library
 
@@ -18,13 +18,13 @@
 
 4.Scikit-learn – Machine learning algorithms tools
 
-##Web Development:
+## Web Development:
 
 1.Flask – Python web framework
 
 2.Bootstrap – HTML, CSS, JavaScript framework
 
-##Development Environment:
+## Development Environment:
 
 1.PyCharm IDE – Python program development environment
 
